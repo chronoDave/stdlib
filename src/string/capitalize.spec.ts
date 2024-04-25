@@ -7,7 +7,7 @@ test('[capitalize]', t => {
     'Test',
     capitalize('test'),
     'capitalizes first character'
-  )
+  );
 
   t.end();
-})
+});
